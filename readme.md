@@ -33,6 +33,7 @@ b站 [司波图](https://space.bilibili.com/28457) 教程 [Intel Coffee Lake平�
 #### 3.1 usb定制：
 b站 [大头蔡Cass](https://space.bilibili.com/16323318) 教程 [黑苹果定制USB教程简易版，2步搞定USB定制](https://www.bilibili.com/video/BV1rt4y1y7Pb)
 ![f49b16f2d6fffa6cc93564cab21c0e74](pic/F49B16F2D6FFFA6CC93564CAB21C0E74.jpg)
+
 附上我的主板定制的usb
 ![a3b9442f65abd47a4416fb2905fc9c51](pic/C293D1F3-4D97-48A5-A0D8-D82DB4CF0387.png)
 
@@ -40,6 +41,9 @@ b站 [大头蔡Cass](https://space.bilibili.com/16323318) 教程 [黑苹果定�
 #### 3.2 cfg解锁教程：
 b站 [大头蔡Cass](https://space.bilibili.com/16323318) 教程 [解锁主板CFG，体验更完美的黑苹果](https://www.bilibili.com/video/BV1ka4y1x7Z2)
 ![938fb76f9afdc38c05e7f5c5e6669a45](pic/EDDD0044-58B3-4202-90A4-BA1A38114D77.png)
+
+
+
 **！！使用相同的命令可以解锁！！**
 
 #### 3.3 appplealc 音频
