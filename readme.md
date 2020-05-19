@@ -1,4 +1,6 @@
-### 0. ！！！clover跟opencore不能混用 更换引导要清一下nvram
+### 0. ！！！clover跟opencore不能混用 更换引导要清一下nvram ！！！
+
+### 0. ！！！ 使用前手动更换三码！！！
 
 ### 1. 配置信息
 * mb: gigabyte b360m aorus pro
